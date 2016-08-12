@@ -48,6 +48,10 @@
                 <key>replay_a_log_on_petri_net_for_performance_conformance_analysis</key>
                 <class>org.rapidprom.operators.conformance.PerformanceConformanceAnalysisOperator</class>
             </operator>
+            <operator>
+            	<key>etc_1_align_precision</key>
+            	<class>org.rapidprom.operators.conformance.ETCPrecisionOperator</class>
+            </operator>
         </group>
         <group key="conversion">
             <operator>
