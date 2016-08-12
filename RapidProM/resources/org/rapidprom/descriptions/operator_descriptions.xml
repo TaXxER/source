@@ -2,7 +2,12 @@
 <operatorHelp lang="en_EN">
        
     <!-- IMPORTERS -->
-
+   <operator>
+        <name>Calculate ETC 1-align precision</name>
+        <Synopyis>Calculate precision using 1-align ETC conformance</Synopyis>
+        <help></help>
+ 		<key>etc_1_align_precision</key>
+   </operator>
    <operator>
         <name>Measure Model Precision based on alignments</name>
         <synopsis>Measures model precision and generalization based on pre-calculated alignments, as defined in: http://dx.doi.org/10.6100/IR770080</synopsis>
